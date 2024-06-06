@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer-container{
+  height: 100px;
+  background-color: lime;
+}
+
+.footer-content{
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 80%;
+}
+
+.bg-footer{
+  background-color: lime;
+}

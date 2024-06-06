@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .header-container{
+    height: 100px;
+    background-color: limegreen;
+  }
+  
+  .header-content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+  .bg-header{
+    background-color: limegreen;
+  }
+
+  .btn-width {
+    min-width: 100px;
+  }
